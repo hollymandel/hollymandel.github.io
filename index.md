@@ -1,16 +1,14 @@
 ---
-title: Welcome to My Professional Site
+title: Holly Mandel
 ---
 
-# Hello, World!
-
-Welcome to my professional GitHub Pages site. Here, you can find information about my projects, skills, and more.
+I am a 
 
 ## About Me
 A brief description about you.
 
-## Projects
-A showcase of your projects with links and descriptions.
+## Personal
+Outside of work I like reading books and running up hills.
 
 ## Contact
 VERSION 2 How people can get in touch with you.
