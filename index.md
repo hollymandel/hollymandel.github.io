@@ -7,8 +7,7 @@ I am a former quant researcher at Vatic Labs looking to work in ML research and 
   var user2 = "92;
   var domain = "gmail.com";
   document.write("<a href='mailto:" + user1 + user2 + "@" + domain + "'>" + user1 + user2 + "@" + domain + "</a>");
-  + ".com");
-</script>
+</script>.
 
 ## Previous Work
 For my first year at Vatic I did alpha research on the statistical arbitrage team. Then I switched to the high-frequency trading team, where I designed and built a production pipeline to automate an important execution decision.
