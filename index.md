@@ -2,12 +2,7 @@
 title: Holly Mandel
 ---
 
-I am a former quant researcher at Vatic Labs looking to work in ML research and engineering. You can find me on <a href = "https://github.com/hollymandel">github</a> or <a href = "https://www.linkedin.com/in/holly-mandel-a0b858220">LinkedIn</a> or take a look at my <a href = "https://hollymandel.github.io/resume_public.pdf">resume</a>. My email address is <script type="text/javascript">
-  var user1 = "hollym";
-  var user2 = "92;
-  var domain = "gmail.com";
-  document.write("<a href='mailto:" + user1 + user2 + "@" + domain + "'>" + user1 + user2 + "@" + domain + "</a>");
-</script>.
+I am a former quant researcher at Vatic Labs looking to work in ML research and engineering. You can find me on <a href = "https://github.com/hollymandel">github</a> or <a href = "https://www.linkedin.com/in/holly-mandel-a0b858220">LinkedIn</a> or take a look at my <a href = "https://hollymandel.github.io/resume_public.pdf">resume</a>.
 
 ## Previous Work
 For my first year at Vatic I did alpha research on the statistical arbitrage team. Then I switched to the high-frequency trading team, where I designed and built a production pipeline to automate an important execution decision.
