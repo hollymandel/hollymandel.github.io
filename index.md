@@ -12,6 +12,4 @@ Before Vatic I did my PhD in Mathematics at Berkeley with <a href = "https://mat
 For my undergraduate research and for a year after graduating, I studied the neuroscience of vision in fruit flies with <a href = "https://clarklab.yale.edu">Damon Clark</a> at Yale. We used genetic tools and fluorescent imaging to see what role individual neuron types play in the motion detection circuit. 
 
 ## Personal
-Outside of work I like reading books and running up hills. I like introspective books like <i>To The Lighthouse</i> and <i>In Search of Lost Time</i> and long character-driven books like <i>Kristin Lavransdatter</i> and <i>Middlemarch</i>. My upcoming races are <a href = "https://brazenracing.com/doubledipsea/">Double Dipsea</a> and <a href = "https://runsra.org/california-international-marathon/">CIM</a>. 
-
-Send me your podcast recommendations! Some of my current favorites are Acquired, Money Stuff, Hard Fork, and Planet Money (business/tech), The Intelligence (daily news), and Some Work, All Play (trail running).
+Outside of work I like reading books and running up hills. Here is a photo of me <a href = "enjoyment.jpg">enjoying</a> Double Dipsea in August 2024. 
