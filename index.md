@@ -2,7 +2,7 @@
 title: Holly Mandel
 ---
 
-I am a former quant researcher at Vatic Labs interested in ML research and engineering. You can find me on <a href = "https://github.com/hollymandel">github</a> or <a href = "https://www.linkedin.com/in/hollymandel">LinkedIn</a> or take a look at my <a href = "https://hollymandel.github.io/resume_mandel_holly.pdf">resume</a>.
+I am a former quant researcher at Vatic Labs interested in machine learning and data engineering. You can find me on <a href = "https://github.com/hollymandel">github</a> or <a href = "https://www.linkedin.com/in/hollymandel">LinkedIn</a>.
 
 ## Previous Work
 During my first year at Vatic I did alpha research on the statistical arbitrage team. Then I switched to the high-frequency trading team, where I designed and built a production pipeline to automate an important execution decision.
