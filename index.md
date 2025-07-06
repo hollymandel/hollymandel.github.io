@@ -2,7 +2,7 @@
 title: Holly Mandel
 ---
 
-I am a Machine Learning Engineer at AdeptID. You can find me on <a href = "https://github.com/hollymandel">github</a> or <a href = "https://www.linkedin.com/in/hollymandel">LinkedIn</a>.
+I am a Machine Learning Engineer at AdeptID. Here is my <a href = "https://hollymandel.github.io/resume_mandel_holly.pdf">resume</a>. You can find me on <a href = "https://github.com/hollymandel">github</a> or <a href = "https://www.linkedin.com/in/hollymandel">LinkedIn</a>.
 
 ## Previous Work
 During my first year at Vatic I did alpha research on the statistical arbitrage team. Then I switched to the high-frequency trading team, where I designed and built a production pipeline to automate an important execution decision.
